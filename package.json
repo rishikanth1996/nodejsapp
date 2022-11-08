@@ -1,7 +1,7 @@
 {
   "name": "First CI app",
   "dependencies": {
-    "lodash": "*"
+    "eslint": "^7.7.0"
   },
   "scripts": {
     "lint": "echo 'Linting!'",
